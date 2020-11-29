@@ -10,7 +10,7 @@ class Student
     public $firstName;
     public $birthDate;
 
-    public function __construct($lastName, $firstName, $birthDate) {
+    public function __construct($lastName = 'Pupkin', $firstName = 'Vasya', $birthDate) {
         $this->lastName = $lastName;
         $this->firstName = $firstName;
         $this->birthDate = $birthDate;
