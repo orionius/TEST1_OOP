@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c1b4bd7-81f9-4634-b2f3-05695b4196ff" name="Default Changelist" comment="" />
+    <list default="true" id="5c1b4bd7-81f9-4634-b2f3-05695b4196ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +21,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kvlVainWr0h9iPssTbv5bmzQNj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="SvnConfiguration">
@@ -33,11 +49,26 @@
       <updated>1606588971149</updated>
       <workItem from="1606588974654" duration="153000" />
       <workItem from="1606589146453" duration="118000" />
-      <workItem from="1606589288664" duration="265000" />
+      <workItem from="1606589288664" duration="2319000" />
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="955" y="315" key="FileChooserDialogImpl" timestamp="1606589573014">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="955" y="315" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1280.984@0.0.2560.1400" timestamp="1606589573014" />
     <state x="896" y="173" key="SettingsEditor" timestamp="1606589529203">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
